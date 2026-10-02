@@ -7,7 +7,7 @@ A SQL deep-dive into Madrid's Airbnb market structure: who controls the listings
 ## Headline findings
 
 - **The top 10% of hosts control 53.3% of all Madrid Airbnb listings.** Just 32 hosts (0.3% of the host population) operate 17% of the market.
-- **The largest "hosts" are property management companies** — Ukio (338 listings), Homeclub (324), MIT House (274), and Bemadrid (240) operate at corporate scale, not as individuals.
+- **The largest "hosts" are property management companies:** Ukio (338 listings), Homeclub (324), MIT House (274), and Bemadrid (240) operate at corporate scale, not as individuals.
 - **The Salamanca district dominates revenue per listing.** Recoletos (€40,410), Goya (€36,796), and Castellana (€32,646) take the top three spots in estimated annual revenue per listing.
 - **Embajadores has the most listings (1,812) but ranks 14th in revenue per listing.** High volume, low margin.
 - **Multi-listing hosts earn slightly less per night (€177 vs €185) and get worse reviews (4.61 vs 4.74)** than single-listing operators. Professionalization comes at a measurable experience cost.
